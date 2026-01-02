@@ -32,12 +32,12 @@ import (
 	"context"
 	"time"
 
-	"github.com/bridgify/hcache/adapters/memory"
-	"github.com/bridgify/hcache/adapters/postgres"
-	"github.com/bridgify/hcache/adapters/redis"
-	"github.com/bridgify/hcache/compression"
-	"github.com/bridgify/hcache/core"
-	"github.com/bridgify/hcache/serializer"
+	"github.com/BbangMxn/hcahe/adapters/memory"
+	"github.com/BbangMxn/hcahe/adapters/postgres"
+	"github.com/BbangMxn/hcahe/adapters/redis"
+	"github.com/BbangMxn/hcahe/compression"
+	"github.com/BbangMxn/hcahe/core"
+	"github.com/BbangMxn/hcahe/serializer"
 )
 
 // =============================================================================

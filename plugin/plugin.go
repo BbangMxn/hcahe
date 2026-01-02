@@ -4,7 +4,7 @@ package plugin
 import (
 	"log"
 
-	"github.com/bridgify/hcache/core"
+	"github.com/BbangMxn/hcahe/core"
 )
 
 // =============================================================================

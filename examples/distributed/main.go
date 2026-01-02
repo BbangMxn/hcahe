@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/bridgify/hcache"
+	"github.com/BbangMxn/hcahe"
 )
 
 // 환경 변수에서 설정을 가져옵니다.

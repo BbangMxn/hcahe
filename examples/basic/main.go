@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/bridgify/hcache"
+	"github.com/BbangMxn/hcahe"
 )
 
 func main() {

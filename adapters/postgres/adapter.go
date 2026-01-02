@@ -10,7 +10,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/bridgify/hcache/core"
+	"github.com/BbangMxn/hcahe/core"
 	_ "github.com/lib/pq"
 )
 

@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bridgify/hcache/adapters/memory"
-	"github.com/bridgify/hcache/core"
+	"github.com/BbangMxn/hcahe/adapters/memory"
+	"github.com/BbangMxn/hcahe/core"
 )
 
 // ============================================================================
